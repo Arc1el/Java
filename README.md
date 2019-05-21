@@ -1,5 +1,5 @@
-# JAVA
-JAVA programming for undergraduate
+# Java
+Java programming for undergraduate
 
 대학 2학년 기준의 자바프로그래밍 입니다.  
 C를 어느정도 완료 하였다는 가정 하에 기록된 문서입니다.  
